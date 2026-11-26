@@ -1,0 +1,5 @@
+{
+  "external_paths": {
+    "data_dir": "put path to your data directory here"
+  }
+}

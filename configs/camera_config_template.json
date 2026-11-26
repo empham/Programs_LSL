@@ -1,0 +1,12 @@
+{
+    "camera_index": 0,
+    "width": 960,
+    "height": 720,
+    "fps": 15,
+    "codec": "mp4v",
+    "lsl_stream_name": "CameraFrameIndex",
+
+    "event_marker_stream_name": "Event_Markers",
+    "event_marker_id_for_flash": 20,
+    "flash_duration_frames": 5
+}

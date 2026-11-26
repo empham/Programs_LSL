@@ -1,0 +1,16 @@
+{
+  "events": [
+    { "name": "Block Start", "value": 1 },
+    { "name": "Block End", "value": 2 },
+    { "name": "Set Start", "value": 5 },
+    { "name": "Set End", "value": 6 },
+    { "name": "Trial Start", "value": 10 },
+    { "name": "Trial End", "value": 11 },
+    { "name": "Camera Sync", "value": 20 },
+    { "name": "Scale Reading", "value": 40 },
+    { "name": "Cut Data", "value": 41 },
+    { "name": "Change Tip", "value": 42 },
+    { "name": "Manual Event", "value": 50 }
+
+  ]
+}
